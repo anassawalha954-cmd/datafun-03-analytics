@@ -98,7 +98,7 @@ CSV_COLUMN: Final[str] = "Logged GDP per capita"  # CUSTOM
 WHY_CSV_COLUMN: Final[str] = r"""
 Logged GDP per capita measures economic production and living standards,
 providing a custom economic focus for our data analytics pipeline.
-
+"""
 
 
 
