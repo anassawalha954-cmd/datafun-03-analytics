@@ -11,13 +11,10 @@
 
 ## Our Approach: Learn by Doing
 
-This course builds capabilities through working projects.
-**Durable skills** are grounded in real work:
-setting up a professional environment,
-reading and running code,
-understanding the logic,
-and pushing work to a shared repository.
-Each example is a professional Python project.
+# Custom ETVL Data Pipelines
+
+This repository implements an automated, modular ETVL (Extract, Transform, Verify, Load) data pipeline to ingest raw datasets, process analytical metrics, generate execution logs, and output structured visual reports.
+
 
 ## Motivation
 
