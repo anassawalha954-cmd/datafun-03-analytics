@@ -13,7 +13,12 @@
 
 # Custom ETVL Data Pipelines
 
+## Introduction
 This repository implements an automated, modular ETVL (Extract, Transform, Verify, Load) data pipeline to ingest raw datasets, process analytical metrics, generate execution logs, and output structured visual reports.
+
+## Customization & Ownership Applied
+- **Target Variable Updated**: Modified the CSV ETVL analysis pipeline to examine **"Logged GDP per capita"** instead of the default happiness score, tailoring the data extraction and transformation steps to a custom economic focus.
+
 
 
 ## Motivation
