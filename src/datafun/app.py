@@ -95,7 +95,7 @@ and write the statistics to a text file.
 CSV_INPUT: Final[Path] = RAW_DIR / "2020_happiness.csv"
 CSV_OUTPUT: Final[Path] = PROCESSED_DIR / "csv_ladder_score_stats.txt"
 CSV_COLUMN: Final[str] = "Logged GDP per capita"  # CUSTOM
-WHY_CSV_COLUMN: Final[str] = r"""
+WHY_CSV_COLUMN: Final[str] = r
 Logged GDP per capita measures economic production and living standards,
 providing a custom economic focus for our data analytics pipeline.
 """
